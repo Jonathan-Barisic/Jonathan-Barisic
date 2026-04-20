@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jonathan-Barisic/osticket-prereqs)
-  - [AWS]([https://github.com/joshmadakorcc/post-install-config](https://github.com/Jonathan-Barisic/AWS)
+  - [AWS](https://github.com/Jonathan-Barisic/AWS)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
