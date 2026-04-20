@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Jonathan-Barisic/osticket-prereqs)
   
 
-- <b>Cloud/b>
+- <b>Cloud</b>
   - [AWS](https://github.com/Jonathan-Barisic/AWS)
 
 
